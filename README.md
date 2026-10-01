@@ -6,7 +6,11 @@ The script lets you browse remote WebDAV storage, navigate folders, search files
 
 It is designed for standard HTTPS WebDAV services and can be used with providers such as TorBox, Premiumize, Real-Debrid, self-hosted WebDAV servers, NAS devices, and other compatible services.
 
+---
+
 ![Screenshot](mpv-webdav-loader.png)
+
+---
 
 ## Features
 
